@@ -1,16 +1,19 @@
-# squawk
+# Squawk
 
-A new Flutter project.
+A simple Twitter clone made with Flutter and Firetore.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project and make its Firestore implementation.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- You can view the demo address if you don't want to build it yourself: https://twitter-1d8c0.web.app/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
+
+![Welcome Screen](images/welcome.png?raw=true "Welcome Screen")
+![Home Screen](images/home.png?raw=true "Home Screen")
+![Profile Screen](images/profile.png?raw=true "Profile Screen")
+![Settings Screen](images/settings.png?raw=true "Settings Screen")
+![Sidebar](images/sidebar.png?raw=true "Sidebar Screen")
